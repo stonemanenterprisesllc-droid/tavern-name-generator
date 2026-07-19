@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tavern.clickabletools.com/sitemap.xml
